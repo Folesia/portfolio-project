@@ -7,7 +7,7 @@
 
 body {
   font-family: var(--default-font-family);
-  }
+}
 
 h1,
 h2,
@@ -198,7 +198,7 @@ footer .social-links a:hover {
     font-size: 26px;
   }
 
-.content-container{
+  .content-container {
     text-align: center;
     padding: 0;
   }
