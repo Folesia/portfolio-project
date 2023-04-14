@@ -7,7 +7,7 @@
 
 body {
   font-family: var(--default-font-family);
-}
+  }
 
 h1,
 h2,
@@ -22,7 +22,7 @@ h6 {
 
 h1 {
   font-size: 96px;
-  line-heigth: 1.5;
+  line-height: 1.5;
 }
 
 h2 {
@@ -110,7 +110,7 @@ p {
 }
 
 .logo {
-  max-height: 40px;
+  max-width: 150px;
 }
 
 .images {
@@ -198,7 +198,7 @@ footer .social-links a:hover {
     font-size: 26px;
   }
 
-  .content-container {
+.content-container{
     text-align: center;
     padding: 0;
   }
